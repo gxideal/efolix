@@ -12,7 +12,8 @@
     	<div class="h">
         	<div class="left">
             Comme toujours, pour les clients de la France, vous pouvez nous appeler en composant l'un des numéros ci-dessous du bureau de Paris. Nous vous rappelons que notre siège social est situé au Luxembourg.<br />
-            Contact Paris&nbsp;&nbsp;&nbsp;&nbsp;Tel: 0638225920&nbsp;&nbsp;&nbsp;&nbsp;Tel: 0658478229
+            <!--Contact Paris&nbsp;&nbsp;&nbsp;&nbsp;Tel: 0638225920&nbsp;&nbsp;&nbsp;&nbsp;Tel: 0658478229-->
+            Contact Paris&nbsp;&nbsp;&nbsp;&nbsp;Tel: 0148335892
             </div>
             <div class="right">
             <span class="color_a">eFolix SARL</span><br />

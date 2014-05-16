@@ -1,0 +1,53 @@
+2014-05-16 17:20:30	Company:gxideal@gmal.com<br/>Contact:1<br/>Phone:2<br/>Order:5*iPad Mini (16G)<br/>Language:Français<br/>Said:<pre>测试邮件是否可以收到
+Bonjour
+
+,Je suis intérréssé par eManager Commande, j'ai peut être besoin :
+
+5 x iPad Mini (16G)
+5 x vendeurs / licenses
+Français
+
+Merci de me contacter au plus vite possible.
+
+Cordialement
+</pre>
+2014-05-16 17:21:04	Company:gxideal@gmal.com<br/>Contact:123344<br/>Phone:255555<br/>Order:5*iPad Mini (16G)<br/>Language:Français<br/>Said:<pre>测试邮件是否可以收到
+Bonjour
+
+,Je suis intérréssé par eManager Commande, j'ai peut être besoin :
+
+5 x iPad Mini (16G)
+5 x vendeurs / licenses
+Français
+
+Merci de me contacter au plus vite possible.
+
+Cordialement
+</pre>
+2014-05-16 17:21:19	Company:gxideal@gmal.com<br/>Contact:123344<br/>Phone:255555<br/>Order:5*iPad Mini (16G)<br/>Language:Français<br/>Said:<pre>测试邮件是否可以收到
+Bonjour
+
+,Je suis intérréssé par eManager Commande, j'ai peut être besoin :
+
+5 x iPad Mini (16G)
+5 x vendeurs / licenses
+Français
+
+Merci de me contacter au plus vite possible.
+
+Cordialement
+</pre>
+2014-05-16 17:22:31	Company:gxideal@gmal.com<br/>Contact:123344<br/>Phone:255555<br/>Order:5*iPad Mini (16G)<br/>Language:Français<br/>Said:<pre>测试邮件是否可以收到
+Bonjour
+
+,Je suis intérréssé par eManager Commande, j'ai peut être besoin :
+
+5 x iPad Mini (16G)
+5 x vendeurs / licenses
+Français
+
+Merci de me contacter au plus vite possible.
+
+Cordialement
+</pre>
+2014-05-16 17:24:41	Company:gxideal@gmail.com<br/>Contact:1234455<br/>Phone:1223232<br/>Said:<pre>测试邮件是否能收到</pre>
