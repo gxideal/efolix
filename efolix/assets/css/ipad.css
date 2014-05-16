@@ -1,0 +1,32 @@
+/* CSS Document */
+.top_pic{ background:url(../image/bg/ipad_bg1.jpg) center;}
+.top_pic .pic_div{ width:960px; height:489px; margin:auto;  margin-top:101px;}
+.top_pic .left{ width:510px; height:489px; float:left;}
+.top_pic .right{ width:450px;  height:199px; padding-top:210px; margin-top:80px; float:left; background:url(../image/commande_logo.png) left top no-repeat; font-size:14px; line-height:32px; color:#fff;}
+
+
+.order_line{ background:url(../image/ipad_shadow.png) center no-repeat; height:22px; width:100%;  position:absolute; top:3290px; left:0;}
+
+.cont .h{ height:116px; width:960px;}
+.cont .h img{ width:347px; height:31px; margin:42px 306px;}
+
+.cont .ipad_div_bg{width:958px; height:2394px; border:1px solid #4e5257; background:#1e2021; position:absolute; top:765px; z-index:-100; left:50%; margin-left:-480px; filter:alpha(opacity=50); -moz-opacity:0.5; -khtml-opacity:0.5; opacity:0.5;}
+.cont .ipad{ width:958px; min-height:500px; padding-bottom:58px;}
+.cont .ipad .p58{padding:58px;}
+.cont .ipad div{ height:284px;}
+.cont .ipad div img {vertical-align:bottom}
+
+.cont .ipad .m1{ height:412px; margin:1px; position:relative;}
+.cont .ipad .m1 .cont{ height:95px; width:958px; background:url(../image/bg/title_bg.png); position:absolute; bottom:0px; font-family:Georgia; font-size:16px; line-height:95px; text-align:center; color:#fff;}
+
+.cont .ipad .text{ width:420px; height:200px; padding-top:80px; font-family:'Open Sans Light'; line-height:32px; font-size:16px; color:#fff; letter-spacing:-1px;}
+.cont .ipad .text .title{ font-family:'Open Sans Semibold'; line-height:60px; font-size:36px; letter-spacing:-3px;}
+
+.cont .order_now{ width:308px; height:60px; color:#fff; font-family:'Open Sans Semibold'; color:#fff; background:#ff352b; margin:auto; text-align:center; line-height:60px; font-size:22px; letter-spacing:-2px; }
+
+.cont .f{font-family:'Open Sans Light'; font-size:16px; line-height:32px; color:#fff; margin-bottom:30px; letter-spacing:-1px; overflow:hidden; padding:0 40px;}
+.cont .f .left{ float:left; width:108px; padding:40px; background:url(../image/bg/ipad_line.png) right no-repeat; cursor:pointer;}
+.cont .f .cart{ background:url(../image/m.png) -41px 0px; width:40px; height:34px; display:block; margin:10px; cursor:pointer;}
+.cont .f a{ color:#fff; text-decoration:none;}
+.cont .f .center{ float:left; width:367px; padding:40px; background:url(../image/bg/ipad_line.png) right no-repeat;}
+.cont .f .right{ float:left; width:155px; padding:40px;}

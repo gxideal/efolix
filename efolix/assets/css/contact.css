@@ -1,0 +1,28 @@
+.contact_nav_line{ background:url(../image/contact_shadow.png) center no-repeat; height:15px; width:100%;  position:absolute; top:946px; left:0;}
+
+.contact .h { height:168px; overflow:hidden;}
+.contact .h .left{ float:left; height:128px; width:640px; background:url(../image/bg/title_bg.png); font-size:16px; font-family:'Open Sans Light'; color:#fff; padding:20px 40px; line-height:30px;}
+.contact .h .right{ float:right; height:142px; width:160px; background:url(../image/bg/title_bg2.png); font-size:14px; font-family:'Georgia'; color:#fff; padding:13px 40px; line-height:23px;}
+
+
+.contact .nav { padding-left:147px; margin-top:85px; height:58px; font-family:'Open Sans Light'; list-style:none;}
+.contact .nav li{ float:left; margin-top:8px; line-height:50px; padding:0 25px; margin-right:2px; color:#ff352b; background:#121416; cursor:pointer;}
+.contact .nav .ed{ margin-top:0px; line-height:58px; background:#000;}
+
+/*订单漂浮页面*/
+.float_order_box{background:url(../image/bg.png); width:100%; }
+.float_order_box .container{width:960px; margin:auto; }
+.float_order_box .container .h{font-size:16px; font-family: 'Open Sans Semibold'; font-size:32px; line-height:52px; text-align:center; color:#3f3f3f; color:#FFF;}
+.float_order_box .container .h .close_icon{background:url(../image/m.png) -110px 0px; height:34px; width:34px; float:right;}
+.float_order_box .container li{font-family: 'Open Sans Light'; color:#9a9a9a; font-size:14px; line-height:20px;}
+.float_order_box .container li textarea{background:#44464a; resize: none; border:1px solid #9a9a9a; margin:5px 0px; color: white; font-family: 'Open Sans Light'; font-size:16px; line-height: 22px; }
+.float_order_box .container .left{width:310px; border-top: 1px solid #9a9a9a; list-style: none; padding:20px 0px;}
+.float_order_box .container .left textarea{width:310px; height:56px;}
+.float_order_box .container .right{width:620px; border-top: 1px solid #9a9a9a; list-style: none; padding:20px 0px; float:right;}
+.float_order_box .container .right textarea{width:600px; height:213px; padding:10px;}
+.float_order_box .container .right .red_btn{background:#ff352b; margin:15px 0; height:45px; line-height:45px; text-align:center; color:#fff; font-size:14px; letter-spacing:0px; border:none; width: 250px;cursor: pointer;}
+.float_order_box .container li input{background:#44464a; resize: none; border:1px solid #9a9a9a; margin:5px 0px; color: white; font-family: 'Open Sans Light'; font-size:16px; line-height: 22px; width:300px; height:56px; padding-left:10px;}
+
+.download_box{background:url(../image/bg.png); width:100%;display:none;}
+.download_box dl{width:100%;margin:20px 0px;}
+.download_box dd{float: left;width:192px;text-align:center;}

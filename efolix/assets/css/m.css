@@ -1,0 +1,50 @@
+/* CSS Document */
+*{ padding:0; margin:0;}
+
+body{ background:url(../image/bg/bg.png); border-top:3px solid #202020; border-bottom:3px solid #202020; font-family:Arial, Helvetica, sans-serif;}
+
+.header{ width:960px; height:102px; margin:auto; font-family:'Open Sans Light'; z-index:9999; position:relative;}
+.header .logo{ float:left; width:247px; height:102px;}
+.header .nav{ float:right; width:713px; height:102px;  background:#414549;}
+.header .nav ul{ margin-top:40px; margin-right:70px; float:right;}
+.header .nav li{ display:inline-block; *float:left; /*margin-right:60px; */font-size:12px; color:#fff; line-height:28px; padding-bottom:34px; padding-left:30px; padding-right:30px;}
+/*.header .nav .a{ border-bottom:4px solid #ff352b;}
+.header .nav li a{ color:#fff; text-decoration:none; cursor:pointer;}
+.header .nav li:hover{ border-bottom:4px solid #ff352b;}*/
+
+.top_pic{ z-index:100; position:absolute; top:55px; left:0; height:590px; width:100%; margin:auto; border-top:2px solid #6f777c; border-bottom:2px solid #6f777c;}
+.top_pic img{ display:block; margin:auto;}
+.top_line{border-top:2px solid #ff352b; width:960px; position:absolute; top:647px; z-index:200; left:50%; margin-left:-480px;}
+
+.cont{ width:960px; margin:auto;}
+
+
+.footer{ width:960px; margin:auto; height:84px; background:#414549; font-family:'Open Sans Light';}
+.footer .logo{ float:left; width:63px; height:43px; margin-top:24px; margin-left:27px;}
+.footer .left{ float:left; width:660px;}
+.footer .right{ float:right; margin-top:34px; margin-right:50px; color:#bdbdbd; font-size:14px;}
+
+.red_button{ background:#ff352b; margin:15px 0; height:45px; line-height:45px; text-align:center; color:#fff; font-size:18px; letter-spacing:0px; cursor:pointer;}
+/**/
+.header .nav .word{ display:inline-block; *float:left; font-size:12px; color:#fff; line-height:28px;}
+.header .nav .a{ border-bottom:4px solid #ff352b;}
+.header .nav .word a{ color:#fff; text-decoration:none; cursor:pointer;}
+.header .nav .word:hover{ border-bottom:4px solid #ff352b;}
+/**/
+
+@font-face {
+  font-family: 'Open Sans Light';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Light'), local('OpenSans-Light'), url(http://themes.googleusercontent.com/static/fonts/opensans/v6/DXI1ORHCpsQm3Vp6mXoaTXhCUOGz7vYGh680lGh-uXM.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans Semibold';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Open Sans Semibold'), local('OpenSans-Semibold'), url(http://themes.googleusercontent.com/static/fonts/opensans/v6/MTP_ySUJH_bn48VBG8sNSnhCUOGz7vYGh680lGh-uXM.woff) format('woff');
+}
+
+.font_semibold{ font-family:'Open Sans Semibold';}
+
+.color_a{ color:#ff352b;}
